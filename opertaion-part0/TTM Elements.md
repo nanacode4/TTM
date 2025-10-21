@@ -14,5 +14,6 @@ These include:
 5. **Safety zones**
 6. **Works area**
 7. **Exit taper**
-![Figure 0.2.2.2.3: Typical TTM Layout showing different TTM Elements](./TTM Elements.png)
+![TTM Layout](https://github.com/nanacode4/TTM/blob/main/operation-part0/images/TTM_Elements.png?raw=true)
+
 
