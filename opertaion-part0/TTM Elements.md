@@ -17,3 +17,10 @@ These include:
 
 ![Httm elements](https://github.com/nanacode4/TTM/blob/main/opertaion-part0/%20TTM%20Elements.png)
 
+**What Should Be In Place Before Starting Operations?**  
+
+**Road type, width, speed limit;**
+**How will you use the road cross section?**
+**What type of traffic control will you implement?**
+**Signage, safety zones, tapers, visibilities, cone spacing; and**
+**Site inductions.**
