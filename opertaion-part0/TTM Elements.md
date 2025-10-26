@@ -29,7 +29,7 @@ These include:
 
 
 
-**Lane Widths**
+## Lane Widths
 
 | 方案                             | 内容说明                                 |
 | ------------------------------ | ------------------------------------ |
@@ -43,4 +43,9 @@ These include:
 | **Optimum Lane Width** | 3.3    | 理想车道宽度              |
 | **Minimum Lane Width** | 3.0    | 最小允许车道宽度            |
 | **Absolute Minimum**   | 2.5    | 仅限小汽车和轻型车使用的绝对最小宽度  |
+
+
+
+## Notes:
+Stop and Go and Traffic Signals are not applicable on Level 3(ii).
 
