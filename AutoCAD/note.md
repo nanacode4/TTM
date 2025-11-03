@@ -1,4 +1,4 @@
-MVIEW   
+**MVIEW**
 
 IMAGECLIP  
 
@@ -15,6 +15,8 @@ explode
 **SAVE**  
 AutoCAD → Preferences…   
 Automatically Save Drawing Every: [ 10 ] Minutes   
+
+**Zoom E** 如果找不到图的话
 
 
 
