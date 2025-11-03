@@ -35,9 +35,9 @@ Dual Carriageways and Motorways
 
 
 
-# 🏛️ Organisations & Abbreviations
+## Organisations
 
-## 🏢 Organisations
+| Abbreviation | Full Name |
 |---------------|------------|
 | **DTTAS** | Department of Transport, Tourism and Sport |
 | **HSA** | Health and Safety Authority |
@@ -47,7 +47,9 @@ Dual Carriageways and Motorways
 
 
 
-## Abbreviations
+##  Abbreviations
+
+| Abbreviation | Meaning |
 |---------------|----------|
 | **AADT** | Annual Average Daily Traffic |
 | **CSCS** | Construction Skills Certification Scheme |
@@ -65,3 +67,4 @@ Dual Carriageways and Motorways
 | **SSWP** | Safe System of Work Plan — identifies hazards associated with the work activities and records implementation of appropriate controls. Organisations may develop their own SSWP forms for routine works activities. The term SSWP does not exclusively refer to a specific form type. |
 | **veh/hr** | Vehicles per hour |
 | **VMS** | Variable Message Sign |
+
