@@ -68,3 +68,24 @@ Dual Carriageways and Motorways
 | **veh/hr** | Vehicles per hour |
 | **VMS** | Variable Message Sign |
 
+
+
+## Roadworks 
+
+| Term | Definition |
+|---|---|
+| Cautionary Speed Plate | These are information sign plates (plate P011 in Chapter 8 of the Traffic Signs Manual) that may be displayed at a roadworks site; they indicate the speed which traffic is recommended not to exceed (a Cautionary Speed Plate is not a regulatory speed limit). |
+| TTM Designer | The person or party designing, contributing to and having overall responsibility for the Temporary Traffic Management Plan. |
+| Emergency Roadworks | Emergency roadworks means roadworks, the carrying out of which is immediately required in order to prevent, or reduce the risk of, loss, injury or damage to persons or property. |
+| Minor Road | A local roadway less than 5.5m wide with an AADT of less than 1000 vehicles. All other public roads shall be non-minor roads. |
+| Residual Road Width | Residual road width is the unobstructed road width plus the lateral safety zone. The term is used in particular in relation to resurfacing works. |
+| Road | a) Any street, lane, footpath, square, court, alley or passage; <br> b) Any bridge, viaduct, underpass, subway, tunnel, overpass, overbridge, flyover, carriageway (whether single or multiple), pavement or footway; <br> c) Any weighbridge or other facility for the weighing or inspection of vehicles, toll plaza or other facility for the collection of tolls, service area, emergency telephone, first aid post, culvert, arch, gulley, railing, fence, wall, barrier, guardrail, margin, kerb, lay-by, hard shoulder, island, pedestrian refuge, median, central reserve, channelliser, roundabout, gantry, pole, ramp, bollard, pipe, wire, cable, sign, signal or lighting forming part of the road; <br> d) Any other structure or thing forming part of the road and (i) necessary for the safety, convenience or amenity of road users or for the construction, maintenance, operation or management of the road or for the protection of the environment, or (ii) prescribed by the Minister. |
+| Roadworks | Road works (also written as “roadworks”) means repairs, maintenance, alterations, improvements or installations or any other works to, above or under, a public road. |
+| Road Works Speed Limit | A regulatory speed limit applied at a roadworks site for a duration and location specified in a Manager's Order made under Section 10 of the Road Traffic Act 2004. |
+| Roadway | That portion of a road which is provided primarily for the use of vehicles. |
+| TTOS (Temporary Traffic Operations Supervisor) | Temporary Traffic Operations Supervisor, the person on site with direct responsibility for implementation, maintenance and removal of temporary traffic management arrangements. |
+| TTMP (Temporary Traffic Management Plan) | The Temporary Traffic Management Plan prepared by the TTM Designer for inclusion in the Safety and Health Plan and for use during roadworks. |
+| Vulnerable Road User | The term includes all pedestrians, cyclists, mobility impaired pedestrians, pushchairs and wheelchair users. |
+| Works Area | The works area (also referred to as working area) is the actual area required by the Contractor to carry out the works. |
+
+
