@@ -89,3 +89,6 @@ Dual Carriageways and Motorways
 | Works Area | The works area (also referred to as working area) is the actual area required by the Contractor to carry out the works. |
 
 
+![1](https://github.com/nanacode4/TTM/blob/main/Temporary%20Traffic%20Management%20Design%20Guidance/Part%200/Road.png)
+
+![2](https://github.com/nanacode4/TTM/blob/main/Temporary%20Traffic%20Management%20Design%20Guidance/Part%200/Unobstructed%20.png)
