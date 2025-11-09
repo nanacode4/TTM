@@ -29,3 +29,46 @@ shuttle working is required to facilitate works on a single carriageway road, a 
 
 The lateral safety zone is measured from the base of the traffic edge of the cone to the edge of the works area. 
 横向安全区是从交通锥底部边缘到施工区域边缘的距离。
+
+
+### 4.2.7 Barriers略
+
+### 4.2.8 Temporary Surfaces略
+
+##  4.3 TTM Criteria
+
+### 4.3.3 Traffic Flow Conditions
+
+###  4.3.4 Lane Widths
+
+| Working Type | Normal traffic including buses and HGVs (m) | Cars and light vehicles only (m) |
+|---------------|---------------------------------------------|----------------------------------|
+| **Two-Way working** | 6.75 desirable minimum<br>6.0 absolute minimum | 5.5 desirable minimum<br>5.0 absolute minimum |
+| **Shuttle Working** | 4.3 maximum<br>3.3 optimum<br>3.0 absolute minimum | 4.3 maximum<br>3.3 optimum<br>2.5 absolute minimum |
+
+###  4.3.5 Sightline and Visibility Requirements
+
+
+| **Level** | **Sub** | **Carriageway Type** | **Speed / Speed Limit (km/h)** | **Sign Visibility (m)** | **Visibility to Stop / Go & Traffic Signals (m)** |
+|------------|----------|----------------------|-------------------------------|--------------------------|---------------------------------------------------|
+| **Level 1** | i   | Single | ≤ 30 | 25 | 25 |
+|              | ii  | Single | 40  | 35 | 35 |
+|              | iii | Single | 50  | 50 | 50 |
+|              | iv  | Single | 60  | 60 | 60 |
+|              | iv  | Multi-lane / Dual | ≤ 60 | 60 | 60 |
+| **Level 2** | i   | Single | 80  | 90  | 90  |
+|              | ii  | Single | 100 | 120 | 120 |
+| **Level 3** | i   | Dual   | 80  | 90  | 120¹ |
+|              | ii  | Dual   | ≥ 100 | 160 | N/A² |
+
+
+**Notes:**  
+1. Use of Stop and Go or Traffic Signals on Level 3(i) require a site specific TTMP by a TTM Designer.  
+2. Stop and Go and Traffic Signals are not applicable on Level 3(ii).
+
+### 4.3.6 Design Speed for TTM略
+
+### 4.3.7 Works off Roadway略
+
+
+## 4.4 Detailed Design
