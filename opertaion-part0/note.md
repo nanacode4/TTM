@@ -5,3 +5,5 @@ If a gateway is not present and works are adjacent to a wall, then a **build out
 如果现场没有像 入口（gateway） 这样可以安全站立的位置，又或者施工紧贴墙面，没有退避空间，
 就需要用 锥桶（cones） 临时筑出”一个安全区 **build out 类似凹位**。
 
+p51
+
